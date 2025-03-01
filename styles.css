@@ -50,6 +50,41 @@ footer {
   width: 100%;
 }
 
+/* Notice Board */
+.notice-board {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.notice-board h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.notice {
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid #28a745;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+.notice h3 {
+    margin: 0 0 10px;
+    color: #28a745;
+}
+.notice p {
+    margin: 0;
+    color: #555;
+}
+.notice .date {
+    font-size: 12px;
+    color: #888;
+    margin-top: 5px;
+}
+
 /* Media Queries for Mobile Devices */
 @media (max-width: 768px) {
   h1 {
