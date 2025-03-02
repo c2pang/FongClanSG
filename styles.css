@@ -9,7 +9,8 @@ body {
 
 /* Header */
 header {
-  background-color: #4CAF50;
+  /* background-color: #4CAF50; */
+  background-color: MediumSeaGreen;
   color: red;
   padding: 20px;
   text-align: center;
