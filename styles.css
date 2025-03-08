@@ -8,16 +8,16 @@ body {
 }
 
 /* Header */
-.header {
+.head {
   background-color: #3cb371;
   color: red;
   padding: 20px;
   text-align: center;
 }
-.header h1 {
+.head h1 {
   margin: 0px;
 }
-.header p {
+.head p {
   color: #eee;
   margin: 0px;
 }
@@ -81,7 +81,7 @@ img {
 }
 
 /* Footer */
-.footer {
+.foot {
   background-color: #353;
   color: white;
   text-align: center;
